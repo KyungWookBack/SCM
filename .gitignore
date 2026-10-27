@@ -1,0 +1,14 @@
+__pycache__/
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+paper/computed_numbers.json
+results/pre_only_*/
+results/legacy_replay_*/
+.Rhistory
+.DS_Store
