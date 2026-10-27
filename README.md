@@ -4,6 +4,9 @@ Code, data and manuscript for *One Peninsula, Two Destinies: A Synthetic Control
 
 We fit standard and ridge-augmented synthetic controls for North Korean GDP per capita using nine donor countries, training on 1911–1943 and comparing 1954–2013. The compiled paper is `paper/SCM_revised.pdf`.
 
+This began as an independent project by three undergraduate students in the Department of Statistics, Korea University, in fall 2025. The analysis, code and manuscript were revised for reproducibility in October 2026.
+
+
 ## Layout
 
 ```
